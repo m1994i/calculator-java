@@ -1,0 +1,12 @@
+1. Testiranje operacija sa prioritetom:
+   - Uspešno izvršen test: 10 + 5 * 4 + 3
+   - Kalkulator ispravno implementira prioritet operacija i daje rezultat 33.
+
+2. Bug u testiranju negativnih brojeva:
+   - Test: -5 + 3
+   - Očekivani rezultat: -2
+   - Dobijeni rezultat: 2
+   - Preporuka: Dodati podršku za pravilno računanje sa negativnim brojevima.
+
+3. Zapažanje:
+   - Kalkulator ne podržava deljenje sa nulom. Preporučuje se dodavanje obrade ove greške.
